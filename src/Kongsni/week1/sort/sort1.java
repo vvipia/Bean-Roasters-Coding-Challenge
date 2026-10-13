@@ -1,4 +1,4 @@
-package Kongsni.sort;
+package Kongsni.week1.sort;
 
 import java.util.Arrays;
 

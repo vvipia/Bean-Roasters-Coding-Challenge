@@ -1,4 +1,4 @@
-package Kongsni.stackQueue;
+package Kongsni.week1.stackQueue;
 
 import java.util.ArrayList;
 import java.util.List;

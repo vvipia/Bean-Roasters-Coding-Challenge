@@ -1,4 +1,4 @@
-package Kongsni.hash;
+package Kongsni.week1.hash;
 
 import java.util.HashSet;
 import java.util.Set;
